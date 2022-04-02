@@ -18,5 +18,5 @@ $ pip3 install swear
 import swear as c
 
 # run
-c.fuckyou()
+c.fuck_you()
 ```
